@@ -4,6 +4,9 @@ Online Retail dataset source- https://archive.ics.uci.edu/dataset/352/online+ret
 
 New Retail Data - https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset
 
+Implementation of Apriori algorithm- https://www.geeksforgeeks.org/implementing-apriori-algorithm-in-python/#
+
+
 File-
 
 Association Rules file contains Apriori algorithm
